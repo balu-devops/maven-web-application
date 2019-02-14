@@ -8,13 +8,13 @@
 	<version>0.1.1-SNAPSHOT</version>
 	
 	<name>Maven Web Application</name>
-	<url>http://gktechnologies.com</url>
+	<url>http://mithun technologies.com</url>
 	
 	<description>Maven Web Project</description>
 
 	<organization>
-		<name>GK Technologies</name>
-		<url>http://gktechnologies.com/</url>
+		<name>Mithun Technologies</name>
+		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -88,13 +88,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>GK Technologies Releases Nexus Repository</name>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://localhost:8081/repository/gktechnologies-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>GK Technologies Snapshot Nexus Repository</name>
-	      <url>http://http://localhost:8081/repository/gktechnologies-snapshot//</url>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://http://localhost:8081/repository/gktechnologies-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
