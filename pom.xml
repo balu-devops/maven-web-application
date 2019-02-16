@@ -85,18 +85,18 @@
 
 	</dependencies>
 	
-	<distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases JFrog Repository</name>
-	      <url>http://localhost:8040/artifactory/webapp/#/admin/repository/local/flipkart-release/</url>
-	    </repository>
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://localhost:8081/repository/mithun-technologies-SNAPSHOT/</url>
-	    </snapshotRepository>
-	</distributionManagement>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>Karthikeya-PC-releases</name>
+        <url>http://localhost:8040/artifactory/flipkart-release</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>Karthikeya-PC-snapshots</name>
+        <url>http://localhost:8040/artifactory/flipkart-release</url>
+    </snapshotRepository>
+</distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
