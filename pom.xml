@@ -91,14 +91,14 @@
 	
 <distributionManagement>
     <repository>
-        <id>central</id>
-        <name>Karthikeya-PC-releases</name>
-        <url>http://localhost:8081/repository/flipkart-releases</url>
+        <id>nexus</id>
+        <name>GK Technologies Releases Nexus Repository</name>
+        <url>http://localhost:8081/repository/GK-Technologies-releases</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
-        <name>Karthikeya-PC-snapshots</name>
-        <url>http://localhost:8081/repository/flipkart-releases</url>
+        <id>nexus</id>
+        <name>GK Technologies Snapshot Nexus Repository</name>
+        <url>GK Technologies Releases Nexus Repository-snapshots</url>
     </snapshotRepository>
 </distributionManagement>
 	
