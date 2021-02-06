@@ -93,12 +93,12 @@
     <repository>
         <id>central</id>
         <name>Karthikeya-PC-releases</name>
-        <url>http://localhost:8081/artifactory/flipkart-release</url>
+        <url>http://localhost:8081/repository/flipkart-releases</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>Karthikeya-PC-snapshots</name>
-        <url>http://localhost:8081/artifactory/flipkart-release</url>
+        <url>http://localhost:8081/repository/flipkart-releases</url>
     </snapshotRepository>
 </distributionManagement>
 	
