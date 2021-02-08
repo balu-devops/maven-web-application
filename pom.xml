@@ -7,6 +7,11 @@
 	<packaging>war</packaging>
 	<version>0.1.1-releases</version>
 	
+	<groupId>com.mt</groupId>
+	<artifactId>maven-web-application</artifactId>
+	<packaging>war</packaging>
+	<version>0.1.1-snapshots</version>
+	
 	<name>Maven Web Application</name>
 	<url>http://mithuntechnologies.com</url>
 	
