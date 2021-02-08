@@ -93,12 +93,12 @@
     <repository>
         <id>nexus</id>
         <name>GK Technologies Releases Nexus Repository</name>
-        <url>http://localhost:8081/repository/GK-Technologies/</url>
+        <url>http://localhost:8081/repository/GK-Technologies-Releases/</url>
     </repository>
     <snapshotRepository>
         <id>nexus</id>
         <name>GK Technologies Snapshot Nexus Repository</name>
-        <url>http://localhost:8081/repository/GK-Technologies/</url>
+        <url>http://localhost:8081/repository/GK-Technologies-Snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 	
